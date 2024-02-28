@@ -1,0 +1,126 @@
+.text1{
+    color: #888;
+font-family: Jost;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.section2 h1{
+    color: #333;
+font-family: "Sofia Pro";
+font-size: 64px;
+font-style: normal;
+font-weight: 600;
+line-height: 160%; /* 102.4px */
+}
+.section2 p{
+   max-width: 570px;
+height: 53px;
+flex-shrink: 0;
+color: #666;
+font-family: "Sofia Pro";
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%; /* 25.6px */
+}
+.button1{
+  width: 130px;
+height: 50px;
+flex-shrink: 0;
+background: #E21A43;
+}
+.button2{
+    width: 130px;
+    height: 50px;
+    flex-shrink: 0;
+}
+.section2 .col{
+
+    background-image: url(./img/sushi-japanese-cuisine-asian-cuisine-california-roll-chinese-cuisine-sushi-png-image-0aee1793f0639d668c55cb1636fc82e1\ 1.png);
+    background-size: cover;
+    background-position: center;
+    width: 63%;
+    height: 500px;
+    
+    
+}
+.section3{
+    /* margin-left: 350px; */
+    gap: 20px;
+}
+.section4 {
+    margin-top: 100px;
+    
+}
+.button3{
+    width: 130px;
+height: 50px;
+flex-shrink: 0;
+margin-left: 50px;
+
+}
+.section5 h1{
+   max-width: 570px;
+height: 181px;
+flex-shrink: 0;
+color: #666;
+font-family: "Sofia Pro";
+font-size: 60px;
+font-style: normal;
+font-weight: 600;
+line-height: 150%; /* 90px */
+}
+.section5 h6{
+    color: #888;
+font-family: "Sofia Pro";
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 150%; /* 48px */
+text-decoration-line: strikethrough;
+}
+.best{
+    color: #333;
+font-family: "Sofia Pro";
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-align: center;
+margin-top: 60px;
+}
+.section6 .col{
+    background-image: url(./img/Rectangle\ 64.png);
+
+}
+.section6 h1{
+    max-width: 570px;   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:1200px) {
+    .im3{
+        display: none;
+    }
+    
+}
